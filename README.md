@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Ericdroush/Ericdroush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm trying to learn github to be more proficient at my job, I've dabbled in coding for a long time, but mostly on individual projects.   
 
-Here are some ideas to get you started:
+I've used Fortran, C++, VBA, Python, and Matlab to some degree over time.   I love coming up with great ways to use code to enhance my personal life.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a few projects I've worked on:
+- Quickbooks alternative for my wife's real estate business
+- AdventofCode.com <-- I can't get enough of this
+- Tax sale property data webscraper
+- Foreclosure property data webscraper
+- Sudoko puzzle solver
+
